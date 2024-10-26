@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://adizuubo.github.io/sitemap_index.adizuubo
